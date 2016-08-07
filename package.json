@@ -1,7 +1,7 @@
 {
   "name": "conventional-commit-types-cli",
   "version": "1.0.1",
-  "description": "List conventional commit types.",
+  "description": "CLI to list conventional commit types.",
   "main": "index.js",
   "bin": {
     "conventional-commit-types": "index.js"

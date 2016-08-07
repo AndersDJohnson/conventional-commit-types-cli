@@ -1,6 +1,6 @@
 # conventional-commit-types-cli
 
-List conventional commit types per https://github.com/AndersDJohnson/conventional-commit-types.
+CLI to list conventional commit types per https://github.com/AndersDJohnson/conventional-commit-types.
 So you can remember them when you're committing.
 
 ## Install
