@@ -5,7 +5,9 @@ So you can remember them when you're committing.
 
 ## Install
 
-`npm install -g conventional-commit-types`
+```
+npm install -g conventional-commit-types-cli
+```
 
 ## Use
 
