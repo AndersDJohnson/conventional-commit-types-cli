@@ -7,7 +7,7 @@
     "conventional-commit-types": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "keywords": [],
   "author": "Anders D. Johnson <anders.d.johnson.developer@gmail.com> (https://andrz.me/)",
