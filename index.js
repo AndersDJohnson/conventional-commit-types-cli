@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var types = require('conventional-commit-types')
+var types = require('conventional-commit-types').types
 var chalk = require('chalk')
 var pad = require('right-pad-keys')
 
