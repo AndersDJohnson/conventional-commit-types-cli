@@ -10,7 +10,7 @@
     "test": "node index.js"
   },
   "keywords": [],
-  "author": "Anders D. Johnson <anders.d.johnson.developer@gmail.com> (https://andrz.me/)",
+  "author": "Anders D. Johnson (https://andrz.me/)",
   "license": "ISC",
   "dependencies": {
     "chalk": "^1.1.3",
