@@ -3,17 +3,10 @@
 CLI to list conventional commit types per https://github.com/commitizen/conventional-commit-types.
 So you can remember them when you're committing.
 
-## Install
-
-```
-npm install -g conventional-commit-types-cli
-```
-
 ## Use
 
-Run:
 ```
-conventional-commit-types
+npx conventional-commit-types-cli
 ```
 
 Outputs e.g.:
